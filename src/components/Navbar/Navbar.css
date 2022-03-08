@@ -1,0 +1,13 @@
+.link{
+    text-decoration: none;
+    color: white;
+    margin: 0px 10px;
+
+}
+
+.link:hover{
+    color: lightgray;
+}
+.me-auto{
+    margin: 0px 10px;
+}

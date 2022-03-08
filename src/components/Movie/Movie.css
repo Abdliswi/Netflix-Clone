@@ -1,0 +1,29 @@
+.div-container{
+    display: flex;
+
+}
+
+.div{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-card-title{
+    height: 3rem;
+}
+.div-card-img{
+    height: 15rem;
+}
+.Title{
+    height: 3rem;
+}
+
+.div-card-button{
+    margin: 10px 0;
+    height: 3rem;
+    justify-items: center;
+    align-items: center;
+    color:darkgoldenrod;
+}
